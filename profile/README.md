@@ -1,10 +1,6 @@
 # Vairogs
 
 <p align="center">
-  <a href="https://last.fm/user/k0d3r1s" target="_blank"><img src="https://spotify.source.lv/view?uid=9d2gn8vajmgxg5vb7ow13d730&cover_image=false" alt="now playing"></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/vairogs"><img src="https://avatars0.githubusercontent.com/u/44346553?s=84&v=4"></a><br>
 </p>
 

@@ -1,7 +1,7 @@
 # Vairogs
 
 <p align="center">
-  <a href="https://github.com/vairogs"><img src="https://avatars0.githubusercontent.com/u/44346553?s=84&v=4"></a><br>
+  <a href="https://github.com/vairogs/vairogs"><img src="https://avatars0.githubusercontent.com/u/44346553?s=84&v=4"></a><br>
 </p>
 
 ### **SUPPORT**  
